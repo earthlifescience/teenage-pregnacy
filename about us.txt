@@ -1,0 +1,107 @@
+
+
+
+
+<!DOCTYPE HTML>
+
+<HEAD> <TITLE> About Us || Members of the Group </TITLE> 
+
+<link rel="stylesheet" href="style.css">
+
+</HEAD> 
+
+<HEADER>
+	<div class="container">
+		 
+	<NAV>
+		
+		 	<H1 class="brand"><a href:home.html">EAR<span>TH</span>LIFE<span>SCIENCE</span></a></H1>
+		
+		<ul> 
+				<li><a href="index.html">Home</a> </li>
+				<li><a href="articles.html">Articles</a> </li>
+				<li><a href="gallery.html">Gallery</a> </li>
+				<li><a href="about us.html">About Us</a> </li>
+		</ul>
+		
+	</NAV>
+
+	 </div>
+<br>
+
+	</HEADER>
+
+<BODY>
+
+		<H1>MEET GROUP 4 OF 11 - HUMSS 3</H1>
+			<H4><i>The brains behind this wonderful & informative site</i></H4>
+<br>
+
+
+
+		<div class="text">
+	<H2><u>MEMBERS AND THEIR ROLES</u></H2>
+<br>
+
+<br> 
+
+<div class="row">
+		<div class="column">
+	<img src="ELS&EMPTECH PETA (10).png" alt="ELS&EMPTECH PETA (10)" width="600px" height="700px" style="margin:0px 50px; border:3px solid #F5F5EC; float:center;"> 
+	<br> 
+</div>
+
+<br> 
+<br> 
+<br> 
+<br>
+	<H4>RESEARCHERS</H4>
+	<H4> <p1> Troy Albert Sandoval </H4> </p1>
+	<H4> <p1> Jerry May Quinones </H4> </p1> 
+	<H4> <p1> Jazmine Kristine Tan </H4>  </p1> 
+	<H4> <p1> Javine Kelsey Comahig </H4> </p1> 
+	<H4> <p1> Javine Kelsey Comahig </H4> </p1> 
+	<H4> <p1> Lee Benedict Cornejo </H4> </p1> 
+	<H4> <p1> Daniel Jason Guitierrez </H4> </p1> 
+	<H4> <p1> Cazandra Limpin </H4> </p1> 
+
+
+<br>
+
+	<H4>PROGRAMMERS</H4>
+	<H4> <p1>Mary Angeli F. Alagde</H4></p1> 
+	<H4><p1> John Rico Rosales</H4></p1>
+	<H4><p1> Mich Andaca Alquiza</H4></p1>
+	
+
+		
+</div>
+	</div>
+	
+<br>
+
+<img src="ELS&EMPTECH PETA (1).png" alt="ELS&EMPTECH PETA (1)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+<img src="ELS&EMPTECH PETA (2).png" alt="ELS&EMPTECH PETA (2)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+<img src="ELS&EMPTECH PETA (3).png" alt="ELS&EMPTECH PETA (3)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+
+
+
+<br> 
+<br> 
+<img src="ELS&EMPTECH PETA (4).png" alt="ELS&EMPTECH PETA (4)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+<img src="ELS&EMPTECH PETA (5).png" alt="ELS&EMPTECH PETA (5)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+<img src="ELS&EMPTECH PETA (6).png" alt="ELS&EMPTECH PETA (6)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+<br> 
+
+<br> 
+
+<img src="ELS&EMPTECH PETA (7).png" alt="ELS&EMPTECH PETA (7)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+
+<img src="ELS&EMPTECH PETA (8).png" alt="ELS&EMPTECH PETA (8)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+
+<img src="ELS&EMPTECH PETA (9).png" alt="ELS&EMPTECH PETA (9)" width="400px" height="500px" style="margin:0px 50px; border:3px solid #F5F5EC;align=leftwards;"> 
+
+
+</BODY> 
+
+</HTML>

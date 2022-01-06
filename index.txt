@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+
+<HEAD> <TITLE> Teenage Pregnancy - An informative website </TITLE> 
+
+<link rel="stylesheet" href="style.css">
+	
+	</HEAD>
+
+	<HEADER>
+
+<div class="container">
+		 
+	<NAV>
+		
+		 	<H1 class="brand"><a href:home.html">EAR<span>TH</span>LIFE<span>SCIENCE</span></a></H1>
+		
+		<ul> 
+				<li><a href="index.html">Home</a> </li>
+				<li><a href="articles.html">Articles</a> </li>
+				<li><a href="gallery.html">Gallery</a> </li>
+				<li><a href="about us.html">About Us</a> </li>
+		</ul>
+		
+	</NAV>
+
+	 </div>
+<br> 
+	
+
+	</HEADER>
+
+<BODY>
+		<h2> <i> "Developing community-based programs for sex education integrated with parents, people from church, and community groups." </h2> </i> 
+	<br>
+
+	<div class="row">
+		<div class="column">
+	<img src="blue.jpg" alt="blue" width="600px" height="350px" style="margin:0px 50px; border:3px solid #F5F5EC;"> 
+	</div>
+		<div class="column">
+	<img src="teen pregs.png" alt="teen pregs" width="600px" height="350px" style="margin:0px 400px; border:3px solid #F5F5EC;"> 
+	</div>	
+</div>
+	
+	<div class="container">
+	
+			<H2><u>WHAT EXACTLY IS TEENAGE PREGNANCY?</u></H2>
+				<H4> Is it a phenomenon? A disease?</H4>
+<br>
+
+		<p> The Philippine National Statistics Office reports that the rate of adolescent pregnancy increased by 60% in the Philippines between 2000 and 2010. This is a grave concern. Pregnancy in teenage years is most prevalent between ages of 15 and 19, while the girls are still in high school. Around 6% of Filipino females experience adolescent pregnancy. That may seem like a small number, but it is the second highest rate in Southeast Asia, according to the 2019 Global Childhood Report by Save the Children. <b> EVERY SINGLE DAY, </b> an estimated 538 babies are born to Filipino adolescent mothers, according to 2017 data from the Philippine Statistical Authority. </p>
+
+<br>
+
+<p> Furthermore, the unique risks that girls face during emergencies increase their likelihood of becoming pregnant. Among the factors responsible for the increase in sexual assault are the urge to compensate for the lack of a child, reduced access to information and contraception, and an increase in sexual violence. </p>
+
+<br> 
+
+<p> To summarize, we <b> urge </b> governments to strengthen national health systems, implement comprehensive adolescent sexual and relationship education in or out of school, as well as provide reasonably priced, safe contraception to address the root causes of teenage pregnancies. Additionally, we <i> demand </i> that governments do more to assist pregnant girls and young mothers in completing their education.</p>
+
+			<H2><u>RAISING AWARENESS</u></H2>
+			<H4> Why exactly should we care?</H4>
+<br>
+
+<p> <i> To spread awareness </i> is to raise the support and knowledge of the public about a certain subject. It may not be doing much in the beginning but it is certainly beneficial in the long-term. By spreading awareness, not only are you generating support for your cause, but it also provides a platform for those who are afflicted by the subject - it amplifies the voices of those who were unable to speak, those who were unable to stand on their own, and many more. </p>
+
+<br>
+
+	</div>
+
+<div class="container">
+	<div class="image">
+		<img src="baby.gif" alt="baby" width="400px" height="350px" style="margin:10px 15px; border:3px solid #F5F5EC; float:left;"> 
+	
+	</div>
+		<div class="text">
+
+<p> <i> To raise awareness </i> means to educate, inform, and lecture people about a topic with the intention of influencing their thoughts, opinions, emotions, about a particular topic in order to achieve a goal or aim. This can be achieved through protesting, public speaking, or even through social media - where information travels faster than anything. Furthermore, this can also be achieved by simply talking about it with our friends, colleagues, and peers.  </p>
+
+	<br>
+
+<p>  According to an article written by Climate ADAPT, the goals of awareness campaigns may differ from its contexts but it mainly arouses the concerns and interests of individuals, educates its targeted audience, and may also encourage a change in behavior or beliefs. (2020) </p>
+
+	<br>
+
+<p> Furthermore, as stated by CNN Philippines, it has recorded a 5% increase in births amongst adolescents, specially among girls ages 15 and below. This leads to the conclusion that teenage pregnancy is <u> one of the main contributors</u> to the Philippines’ rising population, which can be extremely detrimental in the long-term.  If people were to spread information about teenage pregnancy, it may be helpful for individuals, especially the adolescent, to be aware and knowledgeable of their actions. By spreading awareness, we will be able to protect children from harm before it even happens. Protect our youth.</p>
+</div>
+	</div>
+
+<br>
+
+<div class="container">
+	<div class="image">
+		<img src="scan.jpg" alt="baby" width="700px" height="360px" style="margin:10px 10px; border:3px solid #F5F5EC; float:right;"> 
+	
+	</div>
+<br>
+
+<br>
+	<div class="text">
+
+			<H2><u>REMARKS OF THE DEVELOPERS</u></H2>
+			<H4> Our thoughts about this project</H4>
+<br>
+
+<p style: float="bottom; padding="5px;"> The developers, <i> Mich, Angeli, and Rico,  </i>had enjoyed the process of developing the website altogether. From time to time, they may have encounted difficulties but was able to communicate with each other effortlessly and were greatly helpful & supportive of one another. </p>
+	
+	<br>
+
+<p style: float="bottom; padding="5px;"> On the other hand, <i> the researchers </i> also found the process of gathering information quite informative. They were able to gain further insight regarding the topic of teenage pregnancy, and were able to discover things they didn't knew before. </p>
+
+	<br>
+
+<p style: float="bottom; padding="5px;"> To our <i> dear readers </i>, may you also enjoy this experience as much as we had. </p>
+	
+	</div>
+</div>
+
+
+</BODY>
+
+</HTML>

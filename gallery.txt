@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+
+<HEAD><TITLE>Gallery</TITLE> 
+
+<link rel="stylesheet" href="style.css">
+
+</HEAD> 
+
+<HEADER>
+	<div class="container">
+		 
+	<NAV>
+		
+		 	<H1 class="brand"><a href:home.html">EAR<span>TH</span>LIFE<span>SCIENCE</span></a></H1>
+		
+		<ul> 
+				<li><a href="index.html">Home</a> </li>
+				<li><a href="articles.html">Articles</a> </li>
+				<li><a href="gallery.html">Gallery</a> </li>
+				<li><a href="about us.html">About Us</a> </li>
+		</ul>
+		
+	</NAV>
+
+	 </div>
+<br> 
+
+<style>
+img
+    {
+       width: 410px;
+       height: 320px;
+       align: center;
+    }
+
+
+table
+    {
+      width: 20%;
+    }
+
+</style>
+
+
+</HEADER>
+
+<H1><b>PHOTO GALLERY</b></H1>
+<H3><i> Visual aids used within the website</i></H3>
+
+<br>
+
+
+<BODY>
+<br>
+<br>
+  
+<table align="center" cellpadding="25" Cellspacing="20">
+    <tr>
+	<td><img src="baby.gif"></td>
+	<td><img src="blue.jpg"></td>
+	<td><img src="children on the street.jpg"></td>
+    </tr>
+    <tr>  
+	<td><img src="pink.jpg"></td>
+	<td><img src="scan.jpg"></td>
+	<td><img src="lady in purple.jpg"></td>
+    </tr>
+  </table>
+  <table align="center" cellpadding="25" Cellspacing="20">
+    <tr>  
+	<td><img src="teenage pregnancy 3.jpeg"></td>
+	<td><img src="teenage pregnancy 4.jpeg"></td>
+	<td><img src="teenage pregnancy 5.jpeg"></td>
+    </tr>
+  </table>
+    
+<table align="center" cellpadding="25" Cellspacing="20">
+    <tr>  
+	<td><img src="teenage pregnancy 7.jpg"></td>
+	<td><img src="teenage pregnancy 8.png"></td>
+    </tr>
+  </table>
+
+
+</BODY> 
+
+</HTML>

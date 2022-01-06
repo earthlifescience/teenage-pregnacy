@@ -1,0 +1,207 @@
+<!DOCTYPE HTML>
+
+<HEAD> <TITLE> Articles || Main Discussion </TITLE> 
+
+<link rel="stylesheet" href="style.css">
+
+</HEAD> 
+
+<HEADER>
+	<div class="container">
+		 
+	<NAV>
+		
+		 	<H1 class="brand"><a href:home.html">EAR<span>TH</span>LIFE<span>SCIENCE</span></a></H1>
+		
+		<ul> 
+				<li><a href="index.html">Home</a> </li>
+				<li><a href="articles.html">Articles</a> </li>
+				<li><a href="gallery.html">Gallery</a> </li>
+				<li><a href="about us.html">About Us</a> </li>
+		</ul>
+		
+	</NAV>
+
+	 </div>
+
+</HEADER>
+
+<br>
+
+
+	<BODY>
+
+<div class="row">
+		<div class="column">
+	<img src="teenage pregnancy 3.jpeg" alt="teenage pregnancy 3" width="580px" height="350px" style="margin:0px 50px; border:3px solid #F5F5EC;"> 
+	</div>
+		<div class="column">
+	<img src="teenage pregnancy 7.jpg" alt="teenage pregnancy 7" width="600px" height="350px" style="margin:0px 400px; border:3px solid #F5F5EC;"> 
+	</div>	
+</div>
+
+<H2><U>INTRODUCTION TO TEENAGE PREGNANCY</U></H2>
+
+<br>
+
+	<div class="container">
+	
+    <p> Pregnancy in a female under the age of 20 is known as teen pregnancy or adolescent pregnancy. Pregnancy can occur after the onset of ovulation, which can occur before the first menstrual period (menarche) but is more commonly after the onset of periods. Teenage pregnancy occurs as a result of parents' lack of discipline with their children, or as a result of teens' increased use of social media and participation in activities that are inappropriate for their age group.</p>
+
+	
+		<div class="image">
+<p style="float: right; font-size: 9pt; text-align: center; width: 20%; margin-left: 5%; margin-bottom: 5em;"><img src="lady in purple.jpg" alt="purple" width="260px" height="320px" style="margin:15px -5px; border:3px solid #F5F5EC;"><i>Impoverished woman with her child</i></p> 
+	
+	</div>
+
+<br>
+		<H2><U>DISCUSSING THE IMPLICATIONS</U></H2> 
+			<H4><i> What causes teenage pregnancy? How does it affect our youth?</i></H4>
+ <br> 
+
+ <p> In today's world, teen pregnancy is extremely common. Teenagers as young as fourteen years old are frequently pregnant. As a result, the majority of teenagers who become moms are unprepared to handle the obligations and responsibilities of motherhood. Teenage pregnancy is a result of a lot of factors in the society. One of its main reasons are sometimes negligence of the parents and sometimes are due to lack of sex education as well as inclination of the younger generation to porn. </p> 
+
+<br> 
+
+<p> Due to these reasons, most of the teenagers become mother at a young age forcing them to marry early or sometimes even stop attending school in order to be a mom. As citizens of the country, we must do our share to prevent adolescent pregnancy by educating and guiding our youth. Parents must always be aware of their children's whereabouts. Sex education must also be implemented so that future generations are informed of the implications of their actions. In addition, the government should be tighter in its regulation of adult-oriented films and other products. </p>
+
+<br>
+
+<p>We can reduce the number of teenagers who become pregnant at a young age by doing so. It is also our obligation to guide those who become pregnant as teenagers once they have entered their circumstance. It is still our obligation as members of society to guide them in becoming more effective and responsible parents.</p>
+
+<br>
+
+</div>
+	<div class="rows">
+		<div class="text">
+
+	<H3><U>CAUSES OF TEENAGE PREGNANCY</U></H3> 
+	
+	<ul1>
+    <li>Curiosity</li>
+    <li>Lack of knowledge about sex education</li>
+    <li>Peer Pressure</li>
+    <li>Lack of Parental Supervision</li>
+    <li>Sexual Violence</li>
+    <li>Drugs and Alcohol</li>
+    <li>Influence of social media</li>
+    <li>Poor decision making</li>
+    <li>Poverty</li>
+    <li>Inadequate access to services for young people</li>
+    <li>Unstable households</li>
+  	</ul> 
+		</div>
+</div>
+
+<br>
+
+<div class="row">
+		<div class="column">
+	<img src="teenage pregnancy 4.jpeg" alt="teenage pregnancy 4" width="460px" height="260px" style="margin:6px 10px; border:3px solid #F5F5EC;"> 
+	</div>
+		<div class="column">
+	<img src="teenage pregnancy 5.jpeg" alt="teenage pregnancy 5" width="460px" height="260px" style="margin:6px 180px; border:3px solid #F5F5EC;"> 
+	</div>	
+	
+		<div class="column">
+	<img src="teenage pregnancy 8.png" alt="teenage pregnancy 8" width="460px" height="260px" style="margin:6px 330px; border:3px solid #F5F5EC;"> 
+	
+	</div>	
+</div>
+
+<br>
+
+<div class="container">
+		<div class="text">
+			<H2><U>IN-DEPTH INFORMATION ABOUT TEENAGE PREGNANCY</U></H2>
+	
+	</div>
+	
+	<br>
+
+	<p>Teen pregnancy is a crisis that affects the infant, the parents, other family members, and community resources. Every year, around 750,000 young women between the ages of 15 and 19 become pregnant. Teen pregnancies pose an added risk to both the infant and the mother's health. Teen pregnancies are more likely to result in low-birth-weight babies and premature deliveries on average. This is due to the fact that many pregnant teenagers do not receive the necessary prenatal care in a timely manner. Furthermore, the aforementioned youngsters are at a higher risk of high blood pressure as a result of their pregnancy and other difficulties. </p>
+		
+		<br> 
+
+  <p>Furthermore, teen moms are less likely than other women to complete or attend college, and early marriage is more likely going to result in a divorce. Another  potential consequence of teenage pregnancy is abortion. Though formally prohibited in the Philippines, abortion is common in the country. According to Department of Health (2012), 610,000 abortions took place in 2012. Due to its illegal nature, clandestine abortions may carry certain risks, and poorer adolescents may seek out cheaper but riskier methods of abortion.</P>
+
+		<br>
+
+  <p>According to the 2004 national abortion study, an estimated 22% of poor Filipino women used a catheter or heavy abdominal pressure in an abortion attempt, while no nonpoor women resorted to such methods. Moreover, poor women were far less likely to use safer methods, such as dilation and curettage or manual vacuum aspiration (MVA), than the nonpoor (13% vs. 55%). About 1,000 Filipino women die each year from abortion complications, which contributes to the nation’s high maternal mortality rate. Projections that were based on data from 2000 indicate that 100,000 women were hospitalized for abortion complications in 2012; countless others suffered complications that went untreated.</p>
+
+		<br>
+
+<p>Teenage pregnancy can also lead to child abandonment. According to research done by Kaiman J, et. Al.(n.d.), it is estimated that nearly 2 million children in the Philippines are either neglected or abandoned by their households as a result of social, environmental, and economic factors. These high numbers of abandoned children can be attributed to violent conflict as a result of the country’s stance on drugs, mothers forced to find domestic work overseas, high levels of poverty and teen pregnancy, and particular natural disasters, all culminating in children being taken in by orphanages.</p>    
+
+		</div>
+	</div>
+
+<br>
+
+<hr> 
+
+<div class="container">
+		<div class="text">
+			<H2>HOW CAN WE STOP THIS PROBLEM?</H2>
+		<H3><u>SOLUTIONS FOR TEENAGE PREGNANCY</u></H3>
+	</div>
+<br>
+	<p> Teenage Pregnancy is one of the most important concerns that Filipino youth are facing today. For mothers and their children, teen childbearing can have health, economic, and social consequences. Teens frequently utilize condom and birth control tablets, which, when not used consistently and appropriately, are less effective at preventing pregnancy. Below are the many ways of preventing teenage pregnancy: </p>
+
+<br>
+	<p> - Educating young generation regarding sexual and reproductive health, even in non-formal settings, and normalizing respectful discussion on the subject. </p>
+<br>
+	<p> - Implementing protections programs to support pregnant girls and young mothers in continuing and completing their education </p>
+<br>
+	<p> - Ensuring that anti-violence against women and children workstations in barangays are operational. </p>
+<br>	
+
+<p> - By practicing sexual abstinence. </p>
+
+<br>
+
+<p> - Providing a comprehensive sex Education to the youth. Through this, it'll expand their knowledge in terms of sexual engagements. </p>
+
+<br>
+
+<p> - Providing free contraception (condoms, birth control pills, IUDs). </p>
+
+<br>
+
+<p> - By being aware of the consequences when practicing any sexual activities. </p> 
+
+<br>
+
+<p> - Providing counseling and regular check-ups for the health of those who are affected. </p>
+
+<br> 
+
+<p> - Providing materials / safe place for teenage parents if ever they are having a hard time with their baby. </p>
+
+<br>
+
+	<H2> THE EFFECTS OF TEENAGE PREGNANCY</H2>
+		<H3> <i>Who are affected by this? </i></H3>
+	
+
+<p> - Girls who give birth at a very young age have a higher risk of maternal death and infant mortality. </p> 
+
+<br> 
+
+<p> - When Teens become pregnant, they are forced to drop out of school which lower their chances of finding a job. </p>
+
+<br> 
+
+<p> - Pregnant teens will face stigmatism and discrimination among from their peers and their elders. </p> 
+
+<br> 
+
+<p> - Their education will be affected and it will lead them to becoming school dropouts. </p>
+	</div> 
+</div>
+
+<br>
+
+</BODY> 
+
+</HTML>
